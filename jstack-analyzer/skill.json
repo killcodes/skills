@@ -1,0 +1,12 @@
+{
+  "name": "jstack-analyzer",
+  "description": "Analyzes jstack command output and generates comprehensive HTML reports with thread analysis, statistics, and visualizations",
+  "author": "OpenCode AI Assistant",
+  "version": "1.0.0",
+  "created": "2026-01-29T16:07:00",
+  "main_file": "jstack_analyzer.py",
+  "dependencies": [],
+  "tags": ["java", "jvm", "thread-analysis", "performance", "monitoring"],
+  "category": "development-tools",
+  "entry_point": "python skills/skills/jstack-analyzer/scripts/jstack_analyzer.py"
+}
